@@ -1,0 +1,8 @@
+int void ( ){
+while ( true ) {
+if (true)
+a = 2;
+if a==2
+return;
+}
+}
